@@ -7,14 +7,14 @@ visitar outros países.
 
 ### Índice/Sumário
 
-* [Sobre](###sobre-o-visaquest)
-* [Sumário](###índice/sumário)
-* [Requisitos Funcionais](###requisitos-funcionais)
-* [Tecnologias Usadas](###tecnologias-usadas)
-* [Contribuição](###contribuição)
-* [Autores](###autores)
-* [Licença](###licença)
-* [Agradecimentos](###agradecimentos)
+* [Sobre](#sobre-o-visaquest)
+* [Sumário](#índice/sumário)
+* [Requisitos Funcionais](#requisitos-funcionais)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
+* [Autores](#autores)
+* [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
 
 ### Requisitos Funcionais
 
